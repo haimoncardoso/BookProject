@@ -1,0 +1,10 @@
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\bin\Debug\Projeto livros.exe.config
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\bin\Debug\Projeto livros.exe
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\bin\Debug\Projeto livros.pdb
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto livros.csprojAssemblyReference.cache
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto_livros.Properties.Resources.resources
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto livros.csproj.GenerateResource.cache
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto livros.csproj.CoreCompileInputs.cache
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto livros.exe
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto livros.pdb
+E:\C# 2021 - Obra Social Dom Bosco\Projeto livros\obj\Debug\Projeto_livros.FrmLivro.resources
